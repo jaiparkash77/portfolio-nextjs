@@ -17,25 +17,25 @@ const Projects = () => {
           <ProjectItem
             title='E-Commerce with Firebase'
             backgroundImg={eCom}
-            projectUrl='/ecom'
+            projectUrl='/EcommerceWithFirebase'
             tech='React JS, Firebase'
           />
           <ProjectItem
             title='Booking App'
             backgroundImg={booking}
-            projectUrl='/booking'
+            projectUrl='/BookingApp'
             tech='React JS, CSS'
           />
           <ProjectItem
             title='Music Player'
             backgroundImg={music}
-            projectUrl='/music'
+            projectUrl='/MusicPlayer'
             tech='HTML, CSS, JavaScript'
           />
           <ProjectItem
             title='Snake Game'
             backgroundImg={snake}
-            projectUrl='/snake'
+            projectUrl='/SnakeGame'
             tech='HTML, CSS, JavaScript'
           />
         </div>
